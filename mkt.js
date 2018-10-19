@@ -1,0 +1,1 @@
+window.mkt = new mktController();

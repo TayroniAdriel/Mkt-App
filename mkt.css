@@ -1,0 +1,124 @@
+#site{
+    width:1000px;
+}
+
+#SubZero{
+    /*Novamente definimos a largura da div*/
+    width:500px;
+    /* altura da div */
+    height:250px;
+    /* Cor de fundo da div */
+    background-image: url("images/Subzero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+    }
+
+#Scorpion{
+    /*Novamente definimos a largura da div*/
+    width:500px;
+    /* altura da div */
+    height:250px;
+    /* Cor de fundo da div */
+    background-image: url("images/Scorpion.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+} 
+
+#Jax{
+    /*Novamente definimos a largura da div*/
+    width:500px;
+    /* altura da div */
+    height:250px;
+    /* Cor de fundo da div */
+    background-image: url("images/Jax.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+}
+
+#NoobSaibot{
+        /*Novamente definimos a largura da div*/
+        width:500px;
+        /* altura da div */
+        height:250px;
+        /* Cor de fundo da div */
+        background-image: url("images/NoobSaibot.png");
+    background-repeat: no-repeat;
+    background-position: center;
+        float: left;
+}
+
+    
+#Reptile{
+        /*Novamente definimos a largura da div*/
+        width:500px;
+        /* altura da div */
+        height:250px;
+        /* Cor de fundo da div */
+        background-image: url("images/Reptile.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        float: left;
+} 
+
+#NightWolf{
+        /*Novamente definimos a largura da div*/
+        width:500px;
+        /* altura da div */
+        height:250px;
+        /* Cor de fundo da div */
+        background-image: url("images/Nightwolf.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+    float: left;
+}
+
+#Laught{
+            /*Novamente definimos a largura da div*/
+            width:500px;
+            /* altura da div */
+            height:250px;
+            /* Cor de fundo da div */
+            background-image: url("images/Subzero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+            float: left;
+}
+
+#Toasty{
+            /*Novamente definimos a largura da div*/
+            width:500px;
+            /* altura da div */
+            height:250px;
+            /* Cor de fundo da div */
+            background-image: url("images/Subzero.jpg");
+            background-repeat: no-repeat;
+            background-position: center; 
+            float: left;
+} 
+#Best{
+            /*Novamente definimos a largura da div*/
+            width:500px;
+            /* altura da div */
+            height:250px;
+            /* Cor de fundo da div */
+            background-image: url("images/Subzero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+            float: left;
+}
+
+#Ready{
+    /*Novamente definimos a largura da div*/
+    width:500px;
+    /* altura da div */
+    height:250px;
+    /* Cor de fundo da div */
+    background-image: url("images/Subzero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+}
+  
