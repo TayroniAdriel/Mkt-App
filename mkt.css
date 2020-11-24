@@ -24,6 +24,8 @@
     background-repeat: no-repeat;
     background-position: center;
     float: left;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 } 
 
 #Jax{
@@ -36,6 +38,8 @@
     background-repeat: no-repeat;
     background-position: center;
     float: left;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 #NoobSaibot{
@@ -45,9 +49,11 @@
         height:250px;
         /* Cor de fundo da div */
         background-image: url("images/NoobSaibot.png");
-    background-repeat: no-repeat;
-    background-position: center;
+        background-repeat: no-repeat;
+        background-position: center;
         float: left;
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
 }
 
     
@@ -75,50 +81,4 @@
     float: left;
 }
 
-#Laught{
-            /*Novamente definimos a largura da div*/
-            width:500px;
-            /* altura da div */
-            height:250px;
-            /* Cor de fundo da div */
-            background-image: url("images/Subzero.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-            float: left;
-}
-
-#Toasty{
-            /*Novamente definimos a largura da div*/
-            width:500px;
-            /* altura da div */
-            height:250px;
-            /* Cor de fundo da div */
-            background-image: url("images/Subzero.jpg");
-            background-repeat: no-repeat;
-            background-position: center; 
-            float: left;
-} 
-#Best{
-            /*Novamente definimos a largura da div*/
-            width:500px;
-            /* altura da div */
-            height:250px;
-            /* Cor de fundo da div */
-            background-image: url("images/Subzero.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-            float: left;
-}
-
-#Ready{
-    /*Novamente definimos a largura da div*/
-    width:500px;
-    /* altura da div */
-    height:250px;
-    /* Cor de fundo da div */
-    background-image: url("images/Subzero.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    float: left;
-}
   

@@ -8,10 +8,6 @@ class mktController {
             return new Audio(_audio).play();
         };
 
-        //this._sub = document.getElementById("SubZero");
-
-        //this._sub.addEventListener("click", playsub);
-
         this._container = document.querySelectorAll('.person');
 
         this.initButtonsEvents(this);
